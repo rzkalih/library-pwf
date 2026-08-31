@@ -1,3 +1,6 @@
 <?php
 
-class member {}
+class member
+{
+    public $name;
+}
