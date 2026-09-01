@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PHP
+*.log
+
+# Environment
+.env
