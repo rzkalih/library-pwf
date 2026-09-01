@@ -2,5 +2,10 @@
 
 class member
 {
-    public $name;
+    public $nama;
+
+    public function getInfo()
+    {
+        return "Nama Member: " . $this->nama;
+    }
 }
